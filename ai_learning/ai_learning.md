@@ -16,9 +16,6 @@ Here are the summaries of the topics in the three parts:
 - Learn how to train ML models.
 - Learn various ML models, such as CNN, RNN, LSTM, Transformer
 
-#### module 1.2: AI/ML applications
-- Learn potential applications in our teams that we can apply ML models to
-
 ### Part 2. Generative AI
 
 #### module 2.1: Generative AI/LLM overview
