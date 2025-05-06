@@ -17,3 +17,4 @@ Descriptions:
 - `ai_agent`: [AI Agentai_agent](ai_agent/agentic_design_sc.pdf)
 - `chipnemo`: [nvidia chipnemo paper summary](chipnemo/chipnemo_summary.pdf)
 - `fine_tune_llm`: [Fine-tuning guide](fine_tune_llm)(fine_tuning_llms.pdf)
+- `dspy`: [DSPy overview](dspy/dspy_overview.pdf)
